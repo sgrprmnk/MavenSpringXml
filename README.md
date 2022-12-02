@@ -1,0 +1,2 @@
+# MavenSpringXml
+Spring Xml template 
